@@ -8,8 +8,8 @@
      /  '  ,'   ,'     ,"::::::::L           
     /  '  ,    ,     ,":::::::::J      A web application bug bounty hunter and a   
     k-,._    ,'   _.":::::::::::J      self-taught programmer. I usually build my  
-     \.  `"----'"".J::::::::::::|      projects with Java, and other web development      
-      \.    .-,    .L:::::::::::|      tools such as Javascript for front-end.     
+     \.  `"----'"".J::::::::::::|      projects with Java, C/C++ and other web     
+      \.    .-,    .L:::::::::::|      development tools.     
        \.  (       .J:::::::::::!
         \.  `--     .L:::::::::/
          \.   .-.   .|::::::::/
