@@ -3,13 +3,13 @@
           /  '    `"---,.__
          /  '    ,'     ,  '"--,"|                     
         /  '    ,     ,'     ,"::|
-       /  '   ,'    ,      ,"::::|         let alone, where the literature speaks through binary.
+       /  '   ,'    ,      ,"::::|     let alone, where the literature speaks through binary.     
       /  '   ,    ,'     ,"::::::L         
      /  '  ,'   ,'     ,"::::::::L           
-    /  '  ,    ,     ,":::::::::J          
-    k-,._    ,'   _.":::::::::::J          A web application bug bounty hunter and a self-taught programmer.  
-     \.  `"----'"".J::::::::::::|          I usually build my projects with Java, and other web development
-      \.    .-,    .L:::::::::::|          tools such as Javascript for front-end. 
+    /  '  ,    ,     ,":::::::::J      A web application bug bounty hunter and a self-taught programmer.    
+    k-,._    ,'   _.":::::::::::J      I usually build my projects with Java, and other web development      
+     \.  `"----'"".J::::::::::::|      tools such as Javascript for front-end.    
+      \.    .-,    .L:::::::::::|          
        \.  (       .J:::::::::::!
         \.  `--     .L:::::::::/
          \.   .-.   .|::::::::/
