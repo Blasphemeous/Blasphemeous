@@ -4,7 +4,7 @@
          /  '    ,'     ,  '"--,"|                     
         /  '    ,     ,'     ,"::|
        /  '   ,'    ,      ,"::::|     let alone, where the literature speaks     
-      /  '   ,    ,'     ,"::::::L     speaks through binary.     
+      /  '   ,    ,'     ,"::::::L     through binary.     
      /  '  ,'   ,'     ,"::::::::L           
     /  '  ,    ,     ,":::::::::J      A web application bug bounty hunter and    
     k-,._    ,'   _.":::::::::::J      a self-taught programmer. I usually build my  
