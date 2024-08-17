@@ -28,5 +28,5 @@
 
 
 ## Other Platforms
-![Codewars][image](https://www.codewars.com/users/belphegores/badges/large)
+![Codewars](https://www.codewars.com/users/belphegores/badges/large)
                 
