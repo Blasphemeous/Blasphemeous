@@ -28,5 +28,5 @@
 
 
 ## Other Platforms
-<img src = "https://www.codewars.co](https://www.codewars.com/users/belphegores/badges/large" alt = "CodeWars" width = auto height = auto> 
+<img src="https://www.codewars.co](https://www.codewars.com/users/belphegores/badges/large" alt="CodeWars" width=50 height=40> 
                 
