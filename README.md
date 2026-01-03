@@ -30,7 +30,6 @@
 ## Codewars
 ![Codewars](https://www.codewars.com/users/belphegores/badges/large)
 
-![Industrial Intrusion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UUH9Y5A5MZ.pdf)
 
 
                 
