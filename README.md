@@ -11,7 +11,7 @@
      \.  `"----'"".J::::::::::::|      projects with Java, C/C++ and other web     
       \.    .-,    .L:::::::::::|      development tools.     
        \.  (       .J:::::::::::!      
-        \.  `--     .L:::::::::/       ✉ blasphymeous@gmail.com
+        \.  `--     .L:::::::::/      
          \.   .-.   .|::::::::/ 
           \. (   )  .J:::::::/
            \. `-'    .L:::::/             
